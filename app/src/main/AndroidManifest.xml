@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Main2Activity" />
-        <activity android:name=".DisplayMessageActivity"></activity>
+        <activity android:name=".DisplayMessageActivity" />
+        <activity android:name=".branchtest1"></activity>
     </application>
 
 </manifest>
