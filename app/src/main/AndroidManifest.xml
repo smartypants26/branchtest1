@@ -18,7 +18,8 @@
         <activity android:name=".Main2Activity" />
         <activity android:name=".DisplayMessageActivity" />
         <activity android:name=".branchtest1" />
-        <activity android:name=".branchtest2"></activity>
+        <activity android:name=".branchtest2" />
+        <activity android:name=".branchTest3"></activity>
     </application>
 
 </manifest>
